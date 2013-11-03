@@ -3,7 +3,8 @@
 > A full-featured markdown parser and compiler, written in javascript. Built
 > for speed.
 
-[![NPM version](https://badge.fury.io/js/marked.png)][badge]
+[![Build Status](https://travis-ci.org/jonathanong/remark.png)](https://travis-ci.org/jonathanong/remark)
+[![NPM version](https://badge.fury.io/js/remark.png)][badge]
 
 ## Install
 
