@@ -1,7 +1,7 @@
 {
-  "name": "marked",
-  "version": "0.2.9",
-  "repo": "chjj/marked",
+  "name": "remark",
+  "version": "0.0.1",
+  "repo": "jonathanong/remark",
   "description": "A markdown parser built for speed",
   "keywords": ["markdown", "markup", "html"],
   "scripts": ["lib/marked.js"],
