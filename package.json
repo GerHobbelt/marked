@@ -13,6 +13,7 @@
   "keywords": ["markdown", "markup", "html"],
   "tags": ["markdown", "markup", "html"],
   "devDependencies": {
+    "uglifyjs": "*",
     "markdown": "*",
     "showdown": "*",
     "robotskirt": "*"

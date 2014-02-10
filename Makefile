@@ -3,10 +3,10 @@ all:
 	@uglifyjs -o marked.min.js marked.js
 
 clean:
-	@rm marked.js
-	@rm marked.min.js
+	-@rm marked.js
+	-@rm marked.min.js
 
 bench:
 	@node test --bench
 
-.PHONY: clean all
+.PHONY: clean all bench
