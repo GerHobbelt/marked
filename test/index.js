@@ -127,13 +127,9 @@ main:
         failed++;
         failures.push(filename);
 
-        text = text.substring(
-          Math.max(j - 30, 0),
-          Math.min(j + 30, text.length));
+        text = text.substring(j - 30, j + 30);
 
-        html = html.substring(
-          Math.max(j - 30, 0),
-          Math.min(j + 30, html.length));
+        html = html.substring(j - 30, j + 30);
 
         console.log(
           '\n#%d. %s failed at offset %d. Near: "%s".\n',
