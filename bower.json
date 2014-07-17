@@ -1,11 +1,11 @@
 {
   "name": "marked",
   "version": "0.3.2",
-  "homepage": "https://github.com/chjj/marked",
+  "homepage": "https://github.com/Casear/marked",
   "authors": [
-    "Christopher Jeffrey <chjjeffrey@gmail.com>"
+    "Casear Chu <casearchu@gmail.com"
   ],
-  "description": "A markdown parser built for speed",
+  "description": "A markdown parser with mathjax built for speed",
   "keywords": [
     "markdown",
     "markup",
