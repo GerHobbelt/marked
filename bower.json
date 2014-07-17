@@ -1,24 +1,24 @@
 {
-  "name": "marked",
-  "version": "0.3.2",
-  "homepage": "https://github.com/Casear/marked",
-  "authors": [
-    "Casear Chu <casearchu@gmail.com"
-  ],
-  "description": "A markdown parser with mathjax built for speed",
-  "keywords": [
-    "markdown",
-    "markup",
-    "html"
-  ],
-  "main": "lib/marked.js",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "app/bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "marked",
+    "version": "0.3.4",
+    "homepage": "https://github.com/Casear/marked",
+    "authors": [
+        "Casear Chu <casearchu@gmail.com"
+    ],
+    "description": "A markdown parser with mathjax built for speed",
+    "keywords": [
+        "markdown",
+        "markup",
+        "html"
+    ],
+    "main": "lib/marked.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "app/bower_components",
+        "test",
+        "tests"
+    ]
 }
