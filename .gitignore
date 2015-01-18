@@ -1,1 +1,6 @@
 node_modules/
+
+# analyze_github script cache:
+__forks.info__/
+__forks__.bulk_dump
+
