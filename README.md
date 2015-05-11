@@ -1,3 +1,7 @@
+# Things different in this fork:
+
+Added emoji support (https://github.com/chjj/marked/pull/238)
+
 # marked
 
 > A full-featured markdown parser and compiler, written in JavaScript. Built
