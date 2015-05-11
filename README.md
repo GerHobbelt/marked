@@ -1,6 +1,7 @@
 # Things different in this fork:
 
 Added emoji support (https://github.com/chjj/marked/pull/238)
+Added preserveNumbering (https://github.com/chjj/marked/pull/127)
 
 # marked
 
@@ -37,7 +38,8 @@ marked.setOptions({
   pedantic: false,
   sanitize: true,
   smartLists: true,
-  smartypants: false
+  smartypants: false,
+  preserveNumbering: false,
 });
 
 console.log(marked('I am using __markdown__.'));
@@ -270,6 +272,14 @@ Type: `boolean`
 Default: `false`
 
 Use "smart" typograhic punctuation for things like quotes and dashes.
+
+### preserveNumbering
+
+Type: `boolean`
+Default: `true`
+
+Preserves the ordered list numbering of the input (allows starting at
+a number other than 1, counting down, skipping numbers, etc).
 
 ### emoji
 
