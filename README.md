@@ -2,6 +2,7 @@
 
 Added emoji support (https://github.com/chjj/marked/pull/238)
 Added preserveNumbering (https://github.com/chjj/marked/pull/127)
+Revert heading change (https://github.com/chjj/marked/issues/201)
 
 # marked
 
