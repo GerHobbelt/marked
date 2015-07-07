@@ -1,8 +1,8 @@
 {
-  "name": "marked",
+  "name": "marked-papandreou",
   "description": "A markdown parser built for speed",
   "author": "Christopher Jeffrey",
-  "version": "0.3.3",
+  "version": "0.3.3-patch1",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
