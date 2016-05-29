@@ -14,12 +14,12 @@
   "keywords": ["markdown", "markup", "html"],
   "tags": ["markdown", "markup", "html"],
   "devDependencies": {
-    "uglifyjs": "*",
-    "markdown": "*",
-    "showdown": "*",
-    "gulp": "^3.8.11",
-    "gulp-uglify": "^1.1.0",
-    "gulp-concat": "^2.5.2"
+    "uglifyjs": "2.4.10",
+    "markdown": "0.5.0",
+    "showdown": "1.4.1",
+    "gulp": "3.9.1",
+    "gulp-uglify": "1.5.3",
+    "gulp-concat": "2.6.0"
   },
   "scripts": { "test": "node test", "bench": "node test --bench" }
 }
